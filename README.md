@@ -4,7 +4,8 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
-             Scanner s = new Scanner(System.in);
+            
+						Scanner s = new Scanner(System.in);
              System.out.println("Please give the make for the car:"); 
              String carmake = s.next(); 
              System.out.println("Next, give use the car model:"); 
